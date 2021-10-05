@@ -6,3 +6,4 @@
 * Neuborn by std (https://www.dafont.com/neuborn.font)
 * Squarewave by jeti (dafont.com/squarewave.font)
 * Squarethings by C Wood (https://www.dafont.com/square-things.font)
+* Beaufort by Nick Shinn (https://www.onlinewebfonts.com/download/2c37f3699d9728b566e9bdc5b11e5180)

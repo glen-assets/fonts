@@ -11,3 +11,4 @@
 * 851 Tegaki Zatsu Hand by やごいにーにー (https://pm85122.onamae.jp/851fontpage.html)
 * Brutal Type Medium by Dmitry Rastvortsev (https://en.m.fontke.com/font/14602558/)
 * Grooker by zanfonts (https://www.dafont.com/grooker.font)
+* Canela by Miguel Reyes (https://commercialtype.com/catalog/canela)

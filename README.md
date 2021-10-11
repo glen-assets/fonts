@@ -21,4 +21,5 @@
 * Georgia Belle by Vanessa Bays (https://www.dafont.com/georgia-belle.font)
 * Sweetness by Vanessa Bays (https://www.dafont.com/sweetness.font)
 * All Things Pink by Vanessa Bays (https://www.dafont.com/all-things-pink.font)
+* Ness by Vanessa Bays (https://www.dafont.com/ness.font)
 

@@ -12,3 +12,4 @@
 * Brutal Type Medium by Dmitry Rastvortsev (https://en.m.fontke.com/font/14602558/)
 * Grooker by zanfonts (https://www.dafont.com/grooker.font)
 * Canela by Miguel Reyes (https://commercialtype.com/catalog/canela)
+* Roxborough CF Thin by Connary Fagen

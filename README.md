@@ -13,3 +13,5 @@
 * Grooker by zanfonts (https://www.dafont.com/grooker.font)
 * Canela by Miguel Reyes (https://commercialtype.com/catalog/canela)
 * Roxborough CF Thin by Connary Fagen
+* Just Believe by Md Shohail Bhuian (https://www.dafont.com/just-believe-2.font)
+

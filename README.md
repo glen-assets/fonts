@@ -19,4 +19,5 @@
 * Jojoba by peterdraw (https://www.dafont.com/jojoba.font)
 * Hynings Handwriting by Hyning Gan (https://www.dafont.com/hynings-handwriting.font)
 * Georgia Belle by Vanessa Bays
+* Sweetness by Vanessa Bays
 

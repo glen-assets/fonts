@@ -24,4 +24,6 @@
 * Ness by Vanessa Bays (https://www.dafont.com/ness.font)
 * Pixel Operator (Bold) by Jayvee Enaguas (https://www.dafont.com/pixel-operator.font)
 * Digital Disco by jeti (https://www.dafont.com/digital-disco.font)
+* AprilSans by typesprite (https://www.dafont.com/aprilsans.font)
+* Euxoi by Aaron D. Chand (https://www.dafont.com/euxoi.font)
 

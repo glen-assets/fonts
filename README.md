@@ -18,6 +18,7 @@
 * 212 Orion Sans by 212 fonts (https://www.dafont.com/212-orion-sans.font)
 * Jojoba by peterdraw (https://www.dafont.com/jojoba.font)
 * Hynings Handwriting by Hyning Gan (https://www.dafont.com/hynings-handwriting.font)
-* Georgia Belle by Vanessa Bays
-* Sweetness by Vanessa Bays
+* Georgia Belle by Vanessa Bays (https://www.dafont.com/georgia-belle.font)
+* Sweetness by Vanessa Bays (https://www.dafont.com/sweetness.font)
+* All Things Pink by Vanessa Bays (https://www.dafont.com/all-things-pink.font)
 

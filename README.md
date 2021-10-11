@@ -15,4 +15,5 @@
 * Roxborough CF Thin by Connary Fagen
 * Just Believe by Md Shohail Bhuian (https://www.dafont.com/just-believe-2.font)
 * 212 Baby Girl by 212 Fonts (https://www.dafont.com/212-baby-girl.font)
+* Jojoba by peterdraw (https://www.dafont.com/jojoba.font)
 

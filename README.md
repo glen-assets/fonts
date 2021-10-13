@@ -27,4 +27,5 @@
 * AprilSans by typesprite (https://www.dafont.com/aprilsans.font)
 * Euxoi by Aaron D. Chand (https://www.dafont.com/euxoi.font)
 * Monobit by Aaron D. Chand (https://www.dafont.com/monobit.font)
+* Agrandir (Bold) by Pangram Pangram (https://fontmirror.com/agrandir)
 

@@ -29,4 +29,5 @@
 * Monobit by Aaron D. Chand (https://www.dafont.com/monobit.font)
 * Agrandir (Bold) by Pangram Pangram (https://fontmirror.com/agrandir)
 * Kaori Gel by Shara Weber (https://www.dafont.com/kaorigel.font)
+* Regis by Type and Company (https://www.dafont.com/regis.font)
 

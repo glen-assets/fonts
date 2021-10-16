@@ -32,5 +32,6 @@
 * Regis by Type and Company (https://www.dafont.com/regis.font)
 * Magical Source by Java Pep (https://dafont.com/magicalsource.font)
 * Montserrat (https://fonts.google.com/specimen/Montserrat)
+* Quicksand (https://fonts.google.com/specimen/Quicksand)
 * Silkscreen by Jason Aleksandr Kottke (https://www.dafont.com/silkscreen.font)
 

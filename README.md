@@ -31,4 +31,5 @@
 * Kaori Gel by Shara Weber (https://www.dafont.com/kaorigel.font)
 * Regis by Type and Company (https://www.dafont.com/regis.font)
 * Magical Source by Java Pep (https://dafont.com/magicalsource.font)
+* Montserrat (https://fonts.google.com/specimen/Montserrat)
 

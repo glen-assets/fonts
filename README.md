@@ -41,4 +41,5 @@
 * Tiny by Matthew Welch (https://www.dafont.com/tiny.font)
 * Red Velvet by BLKBK Fonts (https://www.dafont.com/red-velvet-2.font)
 * Checkpoint by Maruse (http://marusexijaxs.web.fc2.com/quizfont.html#quizfont2)
+* Gakuran by [?] (http://www.freejapanesefont.com/gakuran-calligraphy-font-download/)
 

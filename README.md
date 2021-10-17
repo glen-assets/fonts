@@ -35,4 +35,5 @@
 * Quicksand (https://fonts.google.com/specimen/Quicksand)
 * Silkscreen by Jason Aleksandr Kottke (https://www.dafont.com/silkscreen.font)
 * mini wakuwaku by miniyama (http://mini-design.jp/font/mini-wakuwaku.html)
+* Eri Ji by [?] (http://v7.mine.nu/pysco/gallery/font/06.html)
 

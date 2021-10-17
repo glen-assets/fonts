@@ -37,4 +37,6 @@
 * mini wakuwaku by miniyama (http://mini-design.jp/font/mini-wakuwaku.html)
 * Eri Ji by [?] (http://v7.mine.nu/pysco/gallery/font/06.html)
 * BitxMap Font TFB by zanatlija (https://www.dafont.com/bitxmap-font-tfb.font)
+* Nightingale by Francis Studio (https://www.dafont.com/nightingale.font)
+* Tiny by Matthew Welch (https://www.dafont.com/tiny.font)
 

@@ -42,4 +42,6 @@
 * Red Velvet by BLKBK Fonts (https://www.dafont.com/red-velvet-2.font)
 * Checkpoint by Maruse (http://marusexijaxs.web.fc2.com/quizfont.html#quizfont2)
 * Gakuran by [?] (http://www.freejapanesefont.com/gakuran-calligraphy-font-download/)
+* CatCafe by Shara Weber (https://www.dafont.com/catcafe.font)
+* Hatsukoi Friends by [?] from flopdesign (https://www.flopdesign.com/font7/hatsukoifriends-font.html)
 

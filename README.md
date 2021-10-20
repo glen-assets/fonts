@@ -48,4 +48,5 @@
 * Four Seasons by [?] (https://web.archive.org/web/20190311025159/http://www.geocities.jp/s318shunkasyuto/down/download.html)
 * Kachou Fuugetsu by [?] (https://web.archive.org/web/20190311025159/http://www.geocities.jp/s318shunkasyuto/down/download.html)
 * HonyaJi (ほにゃ字) by Suzuki Ruichi (鈴木るいち) (http://honya.nyanta.jp/)
+* Rako by Rakko (https://okitan.booth.pm/)
 

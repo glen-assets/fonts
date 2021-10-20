@@ -45,4 +45,5 @@
 * CatCafe by Shara Weber (https://www.dafont.com/catcafe.font)
 * Hatsukoi Friends by [?] from flopdesign (https://www.flopdesign.com/font7/hatsukoifriends-font.html)
 * Makinas by Mojiwaku (https://moji-waku.com/makinas/index.html)
+* Four Seasons by [?] (https://web.archive.org/web/20190311025159/http://www.geocities.jp/s318shunkasyuto/down/download.html)
 

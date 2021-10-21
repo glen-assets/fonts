@@ -50,4 +50,5 @@
 * HonyaJi (ほにゃ字) by Suzuki Ruichi (鈴木るいち) (http://honya.nyanta.jp/)
 * Rako by Rakko (https://okitan.booth.pm/)
 * p5hatty Persona 5 font compiled by HattyMikune & ToxicDevil93 (https://www.youtube.com/watch?time_continue=5&v=6B90DMr-OBY)
+* Eight-Bit Madness (8bit Madness) by Tsunamical (https://www.dafont.com/eight-bit-madness.font)
 

@@ -53,5 +53,6 @@
 * Eight-Bit Madness (8bit Madness) by Tsunamical (https://www.dafont.com/eight-bit-madness.font)
 * Van Helsing by Filmhimmel (https://www.dafont.com/van-helsing-movie.font)
 * Stardew Valley font by ConcernedApe
+* Motor Oil 1937 M54 by justme54s (https://www.dafont.com/motor-oil-1937-m54.font)
 
 

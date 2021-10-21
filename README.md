@@ -49,4 +49,5 @@
 * Kachou Fuugetsu by [?] (https://web.archive.org/web/20190311025159/http://www.geocities.jp/s318shunkasyuto/down/download.html)
 * HonyaJi (ほにゃ字) by Suzuki Ruichi (鈴木るいち) (http://honya.nyanta.jp/)
 * Rako by Rakko (https://okitan.booth.pm/)
+* p5hatty Persona 5 font compiled by HattyMikune & ToxicDevil93 (https://www.youtube.com/watch?time_continue=5&v=6B90DMr-OBY)
 

@@ -54,5 +54,7 @@
 * Van Helsing by Filmhimmel (https://www.dafont.com/van-helsing-movie.font)
 * Stardew Valley font by ConcernedApe
 * Motor Oil 1937 M54 by justme54s (https://www.dafont.com/motor-oil-1937-m54.font)
+* Gobold (variants) by 7NTypes (https://www.dafont.com/gobold.font)
+* KDA font by Brylark (https://www.reddit.com/r/leagueoflegends/comments/jjfs29/kda_font/)
 
 

@@ -58,5 +58,6 @@
 * KDA font by Brylark (https://www.reddit.com/r/leagueoflegends/comments/jjfs29/kda_font/)
 * Tenon Light by Max Phillips & Seán Mongey [Adobe]
 * Aileron [Adobe]
+* Altone by Eko Bimantara (https://www.dafont.com/altone.font)
 
 

@@ -12,7 +12,7 @@
 * Brutal Type Medium by Dmitry Rastvortsev (https://en.m.fontke.com/font/14602558/)
 * Grooker by zanfonts (https://www.dafont.com/grooker.font)
 * Canela by Miguel Reyes (https://commercialtype.com/catalog/canela)
-* Roxborough CF Thin by Connary Fagen
+* Roxborough CF by Connary Fagen (https://connary.com/roxborough.html)
 * Just Believe by Md Shohail Bhuian (https://www.dafont.com/just-believe-2.font)
 * 212 Baby Girl by 212 Fonts (https://www.dafont.com/212-baby-girl.font)
 * 212 Orion Sans by 212 fonts (https://www.dafont.com/212-orion-sans.font)

@@ -60,5 +60,7 @@
 * Aileron [Adobe]
 * Altone by Eko Bimantara (https://www.dafont.com/altone.font)
 * Hakuna Sans (Bold) by WOLVE-Fonts (https://www.dafont.com/hakuna-sans.font)
+* Inter from Google Fonts
+* Aftetir by Amru ID (https://www.dafont.com/aftetir.font)
 
 

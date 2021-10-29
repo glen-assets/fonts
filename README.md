@@ -63,5 +63,6 @@
 * Inter from Google Fonts
 * Aftetir by Amru ID (https://www.dafont.com/aftetir.font)
 * Rockford Sans (Light) by Fenotype (https://www.dafont.com/rockford-sans.font)
+* LT Emphasis by LyonsType (https://www.dafont.com/lt-emphasis.font)
 
 

@@ -62,5 +62,6 @@
 * Hakuna Sans (Bold) by WOLVE-Fonts (https://www.dafont.com/hakuna-sans.font)
 * Inter from Google Fonts
 * Aftetir by Amru ID (https://www.dafont.com/aftetir.font)
+* Rockford Sans (Light) by Fenotype (https://www.dafont.com/rockford-sans.font)
 
 

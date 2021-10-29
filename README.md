@@ -57,5 +57,6 @@
 * Gobold (variants) by 7NTypes (https://www.dafont.com/gobold.font)
 * KDA font by Brylark (https://www.reddit.com/r/leagueoflegends/comments/jjfs29/kda_font/)
 * Tenon Light by Max Phillips & Seán Mongey [Adobe]
+* Aileron [Adobe]
 
 

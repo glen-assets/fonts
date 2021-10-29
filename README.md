@@ -59,5 +59,6 @@
 * Tenon Light by Max Phillips & Seán Mongey [Adobe]
 * Aileron [Adobe]
 * Altone by Eko Bimantara (https://www.dafont.com/altone.font)
+* Hakuna Sans (Bold) by WOLVE-Fonts (https://www.dafont.com/hakuna-sans.font)
 
 

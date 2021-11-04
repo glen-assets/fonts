@@ -64,5 +64,7 @@
 * Aftetir by Amru ID (https://www.dafont.com/aftetir.font)
 * Rockford Sans (Light) by Fenotype (https://www.dafont.com/rockford-sans.font)
 * LT Emphasis by LyonsType (https://www.dafont.com/lt-emphasis.font)
+* Apercu (free version) by Colophon Foundry (https://cofonts.com/apercu-font)
+* The Heart Mighty (https://www.behance.net/gallery/130028723/The-Heart-Mighty-Elegant-Serif-Font)
 
 

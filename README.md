@@ -67,5 +67,6 @@
 * Apercu (free version) by Colophon Foundry (https://cofonts.com/apercu-font)
 * The Heart Mighty (https://www.behance.net/gallery/130028723/The-Heart-Mighty-Elegant-Serif-Font)
 * Dharko Gilbert by cove703 (https://www.dafont.com/dharko-gilbert.font)
+* Visuelt by Anthony Sheret, Edd Harrington (https://dafontfamily.com/visuelt-font-free-download)
 
 

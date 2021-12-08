@@ -71,4 +71,5 @@
 * Mainlux by Digitype Studio (https://www.myfonts.com/foundry/digitype-studio/)
 * Bantayog by John David Maza (https://johndavidmaza.gumroad.com/l/Bantayog)
 * Maragsa by John David Maza (https://johndavidmaza.gumroad.com/l/Maragsa)
+* Nikkyou Sans by daredemotypo (https://www.fontspace.com/nikkyou-sans-font-f31053)
 

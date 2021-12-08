@@ -68,5 +68,7 @@
 * The Heart Mighty (https://www.behance.net/gallery/130028723/The-Heart-Mighty-Elegant-Serif-Font)
 * Dharko Gilbert by cove703 (https://www.dafont.com/dharko-gilbert.font)
 * Visuelt by Anthony Sheret, Edd Harrington (https://dafontfamily.com/visuelt-font-free-download)
-
+* Mainlux by Digitype Studio (https://www.myfonts.com/foundry/digitype-studio/)
+* Bantayog by John David Maza (https://johndavidmaza.gumroad.com/l/Bantayog)
+* Maragsa by John David Maza (https://johndavidmaza.gumroad.com/l/Maragsa)
 

@@ -72,4 +72,5 @@
 * Bantayog by John David Maza (https://johndavidmaza.gumroad.com/l/Bantayog)
 * Maragsa by John David Maza (https://johndavidmaza.gumroad.com/l/Maragsa)
 * Nikkyou Sans by daredemotypo (https://www.fontspace.com/nikkyou-sans-font-f31053)
+* Okashi by shaped fonts (https://shapedfonts.com/project/okashi/)
 

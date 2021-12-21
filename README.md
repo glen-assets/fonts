@@ -74,4 +74,5 @@
 * Nikkyou Sans by daredemotypo (https://www.fontspace.com/nikkyou-sans-font-f31053)
 * Okashi by shaped fonts (https://shapedfonts.com/project/okashi/)
 * Chromate by Unblast (https://www.behance.net/gallery/98278183/Chromate-Serif-Typeface)
+* Google Sans by Google
 

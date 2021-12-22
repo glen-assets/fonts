@@ -75,4 +75,5 @@
 * Okashi by shaped fonts (https://shapedfonts.com/project/okashi/)
 * Chromate by Unblast (https://www.behance.net/gallery/98278183/Chromate-Serif-Typeface)
 * Google Sans by Google
+* Big Bang font (https://textfonts.net/big-bang-feminine-elegant-serif-font.html)
 

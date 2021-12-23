@@ -77,4 +77,5 @@
 * Google Sans by Google
 * Big Bang font by sensatype studio (https://dribbble.com/sensatype)
 * Russisch Sans by Michael Sharanda (https://fontlibrary.org/en/font/russisch-sans)
+* Big Noodle Titling by Sentinel Studio (https://www.dafont.com/bignoodletitling.font)
 

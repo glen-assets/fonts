@@ -65,7 +65,7 @@
 * Rockford Sans (Light) by Fenotype (https://www.dafont.com/rockford-sans.font)
 * LT Emphasis by LyonsType (https://www.dafont.com/lt-emphasis.font)
 * Apercu (free version) by Colophon Foundry (https://cofonts.com/apercu-font)
-* The Heart Mighty (https://www.behance.net/gallery/130028723/The-Heart-Mighty-Elegant-Serif-Font)
+* The Heart Mighty by rockboystudio (https://www.behance.net/rockboystudio)
 * Dharko Gilbert by cove703 (https://www.dafont.com/dharko-gilbert.font)
 * Visuelt by Anthony Sheret, Edd Harrington (https://dafontfamily.com/visuelt-font-free-download)
 * Mainlux by Digitype Studio (https://www.myfonts.com/foundry/digitype-studio/)

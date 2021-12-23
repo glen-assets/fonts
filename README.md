@@ -76,4 +76,5 @@
 * Chromate by Unblast (https://www.behance.net/gallery/98278183/Chromate-Serif-Typeface)
 * Google Sans by Google
 * Big Bang font by sensatype studio (https://dribbble.com/sensatype)
+* Russisch Sans by Michael Sharanda (https://fontlibrary.org/en/font/russisch-sans)
 

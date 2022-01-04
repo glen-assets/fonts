@@ -81,4 +81,5 @@
 * Teko Light by Indian Type Foundry, Google Fonts (https://fonts.google.com/specimen/Teko)
 * Monaco by FontBlast Design (https://www.dafont.com/monaco.font)
 * PF Arma Five by Yusuke Kamiyamane (https://www.dafont.com/pf-arma-five.font)
+* Ernest by Mieps (https://www.dafont.com/ernest.font)
 

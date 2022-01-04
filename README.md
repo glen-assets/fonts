@@ -83,4 +83,5 @@
 * PF Arma Five by Yusuke Kamiyamane (https://www.dafont.com/pf-arma-five.font)
 * Ernest by Mieps (https://www.dafont.com/ernest.font)
 * Lemon Tuesday by Jovanny Lemonad (https://www.dafont.com/lemon-tuesday.font)
+* Saturdate Serif by Subectype & Orenari (https://www.dafont.com/saturdate-serif.font)
 

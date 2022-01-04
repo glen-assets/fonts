@@ -80,4 +80,5 @@
 * Big Noodle Titling by Sentinel Studio (https://www.dafont.com/bignoodletitling.font)
 * Teko Light by Indian Type Foundry, Google Fonts (https://fonts.google.com/specimen/Teko)
 * Monaco by FontBlast Design (https://www.dafont.com/monaco.font)
+* PF Arma Five by Yusuke Kamiyamane (https://www.dafont.com/pf-arma-five.font)
 

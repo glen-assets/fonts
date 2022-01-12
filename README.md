@@ -1,5 +1,7 @@
 # Credits:
 
+<sub>FOR A PREVIEW OF ALL THE FONTS, please go to [glenthemes.tumblr.com/fonts](https://glenthemes.tumblr.com/fonts)</sub>
+
 * 7pixelsOfPerfection by (MetalTxus) Jesús Miguel Cruz Cana (https://www.dafont.com/7pixelsofperfect.font)
 * Zuptype SIM by Zupton (https://www.dafont.com/zuptype-sim.font)
 * Industry [Medium] by Mattox Shule @ Adobe (https://fonts.adobe.com/fonts/industry)

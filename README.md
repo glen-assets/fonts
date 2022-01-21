@@ -86,4 +86,5 @@
 * Ernest by Mieps (https://www.dafont.com/ernest.font)
 * Lemon Tuesday by Jovanny Lemonad (https://www.dafont.com/lemon-tuesday.font)
 * Saturdate Serif by Subectype & Orenari (https://www.dafont.com/saturdate-serif.font)
+* Proxima Nova by Mark Simonson [Adobe] (https://fonts.adobe.com/fonts/proxima-nova)
 

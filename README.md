@@ -87,4 +87,6 @@
 * Lemon Tuesday by Jovanny Lemonad (https://www.dafont.com/lemon-tuesday.font)
 * Saturdate Serif by Subectype & Orenari (https://www.dafont.com/saturdate-serif.font)
 * Proxima Nova by Mark Simonson [Adobe] (https://fonts.adobe.com/fonts/proxima-nova)
+* Dreaming Aloud Caps by My Creative Land, via Canva
+* Soin Sans Neue by [Stawix Ruecha](https://www.onlinewebfonts.com/author/Stawix_Ruecha)
 

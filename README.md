@@ -90,4 +90,5 @@
 * Dreaming Aloud Caps by My Creative Land, via Canva
 * Soin Sans Neue by [Stawix Ruecha](https://www.onlinewebfonts.com/author/Stawix_Ruecha)
 * Modern Antiqua by Wojciech Kalinowski (https://fonts.google.com/specimen/Modern+Antiqua)
+* Ra Mono by Rahman Yerli (https://www.dafont.com/ra-mono.font)
 

@@ -92,4 +92,5 @@
 * Modern Antiqua by Wojciech Kalinowski (https://fonts.google.com/specimen/Modern+Antiqua)
 * Ra Mono by Rahman Yerli (https://www.dafont.com/ra-mono.font)
 * Mono Light, Mono Regular by Rony Setya Siswadi (https://www.dafont.com/mono-2.font)
+* Simvoni by Amru ID (https://dafont.com/simvoni.font)
 
